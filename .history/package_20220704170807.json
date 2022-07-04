@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "desafiologin-c24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-session": "^1.17.3"
+  }
+}
